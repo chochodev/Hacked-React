@@ -1,3 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code&family=Inter&family=Poppins&family=Russo+One&family=Source+Code+Pro&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --font1: 'Fira Code', monospace;
+  --font2: 'Inter', sans-serif;
+  --font3: 'Poppins', sans-serif;
+  --font4: 'Russo One', sans-serif;
+  --font5: 'Source Code Pro', monospace;
+}
+
 * {
   padding: 0;
   margin: 0;
