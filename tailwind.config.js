@@ -1,5 +1,5 @@
 /** @type {import('tailwindcss').Config} */
-@import url('https://fonts.googleapis.com/css2?family=Fira+Code&family=Inter&family=Poppins&family=Russo+One&family=Source+Code+Pro&display=swap');
+// @import url('https://fonts.googleapis.com/css2?family=Fira+Code&family=Inter&family=Poppins&family=Russo+One&family=Source+Code+Pro&display=swap');
 
 module.exports = {
   content: [
