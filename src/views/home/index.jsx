@@ -7,7 +7,7 @@ const Home = () => {
       <p className="font-poppins">Home is not a place but the people you feel most at ease</p>
       <p className="font-poppins">Home is not a place but the people you feel most at ease</p>
       <p className="font-poppins">Home is not a place but the people you feel most at ease</p>
-      <p className="font-poppins">Home</p>
+      <p className="font-poppins">Home is not a place but the people you feel most at ease</p>
     </div>
   )
 }
