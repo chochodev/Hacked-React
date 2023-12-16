@@ -8,6 +8,10 @@ module.exports = {
     extend: {
       fontFamily: {
         poppins: ['Poppins', 'sans-serif'],
+        inter: ['Inter', 'sans-serif'],
+        fira: ['Fira Code', 'monospace'],
+        russo: ['Russo One', 'sans-serif'],
+        source: ['Source Code Pro', 'monospace'],
       }
     },
   },
