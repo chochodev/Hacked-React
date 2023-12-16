@@ -5,11 +5,7 @@
 @import 'tailwindcss/utilities';
 
 :root {
-  --font1: 'Fira Code', monospace;
-  --font2: 'Inter', sans-serif;
-  --font3: 'Poppins', sans-serif;
-  --font4: 'Russo One', sans-serif;
-  --font5: 'Source Code Pro', monospace;
+  --cta: #ffd720;
 }
 
 * {
@@ -19,3 +15,10 @@
   text-decoration: none;
   list-style: none;
 }
+
+a, button {
+  border: none;
+  outline: none;
+  color: var(--cta);
+}
+
