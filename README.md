@@ -15,7 +15,7 @@ Just a few pages (3)
 * Figma
 
 ## To start
-
+### run
 ### `npm start`
 
 ## email: michochoprogrammer@gmail.com
