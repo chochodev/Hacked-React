@@ -6,7 +6,9 @@ This is just a service rendering website for a client that wants to show case hi
 
 Just a few pages (3)
 
-
+## Tools used:
+* React JS
+* 
 ## Available Scripts
 
 In the project directory, you can run:
