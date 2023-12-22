@@ -14,9 +14,7 @@ Just a few pages (3)
 ## Designed with
 * Figma
 
-## Available Scripts
-
-In the project directory, you can run:
+## To start
 
 ### `npm start`
 
