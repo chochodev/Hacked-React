@@ -10,6 +10,10 @@ Just a few pages (3)
 * React JS
 * Tailwind Css
 * Emailing (Email JS, SMTP JS)
+
+## Designed with
+* Figma
+
 ## Available Scripts
 
 In the project directory, you can run:
