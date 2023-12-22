@@ -8,6 +8,7 @@ Just a few pages (3)
 
 ## Tools used:
 * React JS
+* Tailwind Css
 * 
 ## Available Scripts
 
