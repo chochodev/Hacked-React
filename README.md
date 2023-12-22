@@ -1,3 +1,8 @@
+# HACKED WEBSITES
+
+A website that helps in recovering hacked, lost or forgotten accounts  of any website; be it social media like.
+
+
 # Getting Started with Create React App
 
 ## Available Scripts
@@ -5,8 +10,5 @@
 In the project directory, you can run:
 
 ### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## email: michochoprogrammer@gmail.com
