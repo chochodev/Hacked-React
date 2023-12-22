@@ -9,7 +9,7 @@ Just a few pages (3)
 ## Tools used:
 * React JS
 * Tailwind Css
-* Emailing (Email JS)
+* Emailing (Email JS, SMTP JS)
 ## Available Scripts
 
 In the project directory, you can run:
